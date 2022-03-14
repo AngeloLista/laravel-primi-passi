@@ -10,6 +10,7 @@
 
 <body>
     <h1>Hello world</h1>
+    <p>My name is {{ $name }} and this is a test page</p>
 </body>
 
 </html>
